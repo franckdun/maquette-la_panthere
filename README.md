@@ -8,7 +8,7 @@
 	<tr>
 	   <td width="50%">
 	
-* [ 1 - Maquette ](https://github.com/franckdun/maquette-la_panthere)
+* [ 1 - Maquette ](https://franckdun.github.io/maquette-la_panthere/)
 
 * [ 2 - Rapport d'analyse d'audit SEO ](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/rapport-audit-SEO.xlsx)
 
